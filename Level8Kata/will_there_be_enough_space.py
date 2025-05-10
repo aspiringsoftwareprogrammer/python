@@ -5,3 +5,9 @@ def enough(cap, on, wait):
     if (ans < 0):
         return 0
     return ans
+
+
+
+
+
+    
